@@ -44,6 +44,5 @@ The Live Clock project is a simple web application that displays the current tim
 - 🔢 Allow users to customize date/time format
 - 🎭 Improve UI/UX with animations
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
